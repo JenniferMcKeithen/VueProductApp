@@ -1,2 +1,2 @@
 # VueProductApp
-Building a product app with Vue
+Building a product app with Vue.js
